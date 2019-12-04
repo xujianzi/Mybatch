@@ -1,0 +1,1 @@
+The DEM data is to big. So, I put the processed data in the 'result' folder
